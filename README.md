@@ -7,3 +7,4 @@ This is my first Python project.
 Run the following command:
 
 python hello.py
+It is fun!!
